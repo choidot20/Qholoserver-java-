@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Extension-Name: javax.media.jai
+Extension-Installation: jai-1_1_2_01-lib-windows-i586-jre.exe
+Specification-Version: 1.1-mr
+Implementation-Version: 1.1.2_01
+
+Name: jai-1_1_2_01-lib-windows-i586-jre.exe
+SHA-Digest: g2v9ddoV/ZVRobFetaLHh97K42Y=
+SHA1-Digest: g2v9ddoV/ZVRobFetaLHh97K42Y=
+MD5-Digest: lbwVk4OsoJGbc5dhFBjLZQ==
+Digest-Algorithms: SHA MD5 
+
